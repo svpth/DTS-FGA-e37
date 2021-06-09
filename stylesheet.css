@@ -173,7 +173,7 @@ a {
   box-sizing: border-box;
   display: inline-block;
   text-rendering: auto;
-  line-height: 7;
+  line-height: 15;
   padding-right: 10px ;
   color: blue;
   font-weight: bolder;
